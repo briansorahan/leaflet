@@ -1,0 +1,19 @@
+memo = "f590d9d1e55cdd6511a43a9201ea9436ea603e9718a63deac6043bdde91cda39"
+
+[[projects]]
+  branch = "master"
+  name = "github.com/namsral/flag"
+  packages = ["."]
+  revision = "f522f7fa700925bcdf4ee0daf0952167618242ef"
+
+[[projects]]
+  name = "github.com/oklog/ulid"
+  packages = ["."]
+  revision = "d311cb43c92434ec4072dfbbda3400741d0a6337"
+  version = "v0.3.0"
+
+[[projects]]
+  branch = "master"
+  name = "github.com/pkg/errors"
+  packages = ["."]
+  revision = "c605e284fe17294bda444b34710735b29d1a9d90"
